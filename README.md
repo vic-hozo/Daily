@@ -1,0 +1,2 @@
+# Daily
+python-daily
