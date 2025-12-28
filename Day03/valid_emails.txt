@@ -1,0 +1,8 @@
+john.doe@gmail.com
+mary_anne123@yahoo.com
+hello.world@domain.co
+admin@site.org
+first.last@sub.domain.com
+user+promo@gmail.com
+123user@numbers.net
+valid_email@outlook.com

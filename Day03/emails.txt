@@ -1,0 +1,15 @@
+john.doe@gmail.com
+mary_anne123@yahoo.com
+invalid-email@
+test.user@company
+hello.world@domain.co
+user@domaincom
+admin@site.org
+first.last@sub.domain.com
+noatsymbol.com
+space in@email.com
+user+promo@gmail.com
+123user@numbers.net
+user@.invalid.com
+@missingusername.com
+valid_email@outlook.com

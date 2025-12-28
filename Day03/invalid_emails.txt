@@ -1,0 +1,7 @@
+invalid-email@
+test.user@company
+user@domaincom
+noatsymbol.com
+space in@email.com
+user@.invalid.com
+@missingusername.com
